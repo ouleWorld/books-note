@@ -1,69 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ed26d9f-7132-44c8-8e18-06d864fdf815" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Egg文档/Cookie 与 Session.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Egg文档/HttpClient.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Egg文档/aMenu.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Egg文档/egg 框架内置对象.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Egg文档/egg 框架基础了解.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Egg文档/egg 框架运行环境.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Egg文档/中间件.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Egg文档/单元测试.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Egg文档/启动自定义.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Egg文档/多进程模型和进程间通讯.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Egg文档/定时任务.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Egg文档/应用部署.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Egg文档/控制器(Controller).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Egg文档/插件.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Egg文档/日志.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Egg文档/服务(service).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Egg文档/本地开发.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Egg文档/框架拓展.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Egg文档/路由.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript 忍者秘籍/第13章 - 历久弥新的事件.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript 忍者秘籍/第2章 - 运行时页面的构建过程.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/1.核心概念.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/2.高级指引.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/API.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/Cross-Cutting Concerns.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/DOM.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/Fragments.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/Hook.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/Mixins.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/Portals.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/PropTypes和defaultProps.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/React 事件.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/React 概念.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/React 渲染.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/React 组件.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/context.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/diff.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/jsx.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/profiler.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/refs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/严格模式.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/代码分割.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/受控组件和非受控组件.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/性能优化.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/组件通信.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/错误边界.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/静态类型检查.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/React文档/高阶组件.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WxMini 文档/observers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WxMini 文档/page生命周期.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WxMini 文档/冷启动更新.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WxMini 文档/原生组件.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WxMini 文档/基础能力.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WxMini 文档/微信小程序文档.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WxMini 文档/登录流程.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WxMini 文档/组件通信.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WxMini 文档/自定义组件.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WxMini 文档/获取节点信息.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/深入浅出React和Redux/第2章-设计高质量的React组件.md" afterDir="false" />
-    </list>
+    <list default="true" id="8ed26d9f-7132-44c8-8e18-06d864fdf815" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -91,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/Egg文档/多进程模型和进程间通讯.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="331">
-                <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+              <first_editor relative-caret-position="511">
+                <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -301,12 +239,12 @@
       <workItem from="1592147928721" duration="2231000" />
       <workItem from="1592218842970" duration="957000" />
       <workItem from="1592238499405" duration="1351000" />
-      <workItem from="1593083420057" duration="50286000" />
+      <workItem from="1593083420057" duration="50562000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="212861000" />
+    <option name="totallyTimeSpent" value="213137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -991,8 +929,8 @@
     <entry file="file://$PROJECT_DIR$/Egg文档/多进程模型和进程间通讯.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="331">
-            <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+          <first_editor relative-caret-position="511">
+            <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
