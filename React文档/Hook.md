@@ -109,7 +109,11 @@ function Example() {
 }
 ```
 
+<<<<<<< HEAD
 ## 3.3 不需要清除的 effect
+=======
+## 3.3不需要清除的 effect
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
 ```
 useEffect(() => {
     document.title = `You clicked ${count} times`;

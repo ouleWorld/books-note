@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="8ed26d9f-7132-44c8-8e18-06d864fdf815" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="8ed26d9f-7132-44c8-8e18-06d864fdf815" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript 忍者秘籍/第13章 - 历久弥新的事件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript 忍者秘籍/第2章 - 运行时页面的构建过程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/1.核心概念.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/2.高级指引.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/API.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/Cross-Cutting Concerns.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/DOM.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/Fragments.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/Hook.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/Mixins.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/Portals.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/PropTypes和defaultProps.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/React 事件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/React 概念.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/React 渲染.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/React 组件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/context.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/diff.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/jsx.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/profiler.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/refs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/严格模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/代码分割.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/受控组件和非受控组件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/性能优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/组件通信.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/错误边界.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/静态类型检查.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/高阶组件.md" afterDir="false" />
+    </list>
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,6 +48,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Egg文档/aMenu.md">
@@ -62,14 +99,20 @@
         </entry>
       </file>
     </leaf>
+=======
+    <leaf />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>defaultProps</find>
       <find>Class.contextType</find>
+<<<<<<< HEAD
       <find>列表</find>
       <find>addE</find>
       <find>help</find>
+=======
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -78,6 +121,24 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/深入浅出React和Redux/第1章-React新的前端思维.md" />
+        <option value="$PROJECT_DIR$/React文档/Portals.md" />
+        <option value="$PROJECT_DIR$/React文档/test.js" />
+        <option value="$PROJECT_DIR$/React文档/严格模式.md" />
+        <option value="$PROJECT_DIR$/React文档/propstype和defaultProps.md" />
+        <option value="$PROJECT_DIR$/React文档/受控组件和非受控组件.md" />
+        <option value="$PROJECT_DIR$/React文档/API.md" />
+        <option value="$PROJECT_DIR$/React文档/DOM.md" />
+        <option value="$PROJECT_DIR$/React文档/Hook.md" />
+        <option value="$PROJECT_DIR$/React文档/高阶组件.md" />
+        <option value="$PROJECT_DIR$/React文档/jsx.md" />
+        <option value="$PROJECT_DIR$/React文档/React 事件.md" />
+        <option value="$PROJECT_DIR$/React文档/React 组件渲染.md" />
+        <option value="$PROJECT_DIR$/React文档/React 渲染.md" />
+        <option value="$PROJECT_DIR$/React文档/代码分割.md" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
         <option value="$PROJECT_DIR$/React文档/context.md" />
         <option value="$PROJECT_DIR$/React文档/错误边界.md" />
         <option value="$PROJECT_DIR$/React文档/Fragments.md" />
@@ -97,6 +158,7 @@
         <option value="$PROJECT_DIR$/React文档/2.高级指导.md" />
         <option value="$PROJECT_DIR$/JavaScript 忍者秘籍/第2章 - 运行时页面的构建过程.md" />
         <option value="$PROJECT_DIR$/JavaScript 忍者秘籍/第13章 - 历久弥新的事件.md" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/微信小程序文档.md" />
         <option value="$PROJECT_DIR$/WxMini 文档/获取节点信息.md" />
         <option value="$PROJECT_DIR$/WxMini 文档/冷启动更新.md" />
@@ -129,14 +191,23 @@
         <option value="$PROJECT_DIR$/Egg文档/Cookie 与 Session.md" />
         <option value="$PROJECT_DIR$/Egg文档/aMenu.md" />
         <option value="$PROJECT_DIR$/Egg文档/多进程模型和进程间通讯.md" />
+=======
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="280" />
     <option name="y" value="25" />
     <option name="width" value="1555" />
     <option name="height" value="980" />
+=======
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -157,7 +228,11 @@
             <path>
               <item name="books-note" type="b2602c69:ProjectViewProjectNode" />
               <item name="books-note" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="Egg文档" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="深入浅出React和Redux" type="462c0819:PsiDirectoryNode" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
             </path>
           </expand>
           <select />
@@ -167,16 +242,23 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../test/testFile" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../test/githubCodeOriginal/books-note" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
+<<<<<<< HEAD
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\code\test\githubCodeOriginal\books-note\WxMini 文档" />
     </key>
   </component>
+=======
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -210,6 +292,7 @@
       <workItem from="1589298609097" duration="599000" />
       <workItem from="1589356130056" duration="1050000" />
       <workItem from="1589417394073" duration="23000" />
+<<<<<<< HEAD
       <workItem from="1589417475090" duration="4615000" />
       <workItem from="1589615991016" duration="599000" />
       <workItem from="1589721246068" duration="7462000" />
@@ -240,10 +323,14 @@
       <workItem from="1592218842970" duration="957000" />
       <workItem from="1592238499405" duration="1351000" />
       <workItem from="1593083420057" duration="50562000" />
+=======
+      <workItem from="1589417457643" duration="26000" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="213137000" />
   </component>
   <component name="ToolWindowManager">
@@ -251,6 +338,14 @@
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1459431" />
+=======
+    <option name="totallyTimeSpent" value="89715000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19915701" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -268,6 +363,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+<<<<<<< HEAD
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1459431" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -287,11 +383,14 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
+=======
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/WxMini 文档/原生组件.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -310,21 +409,37 @@
             <folding>
               <element signature="e#146#156#0" />
             </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/深入浅出React和Redux/第1章-React新的前端思维.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="660">
+            <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/React文档/refs.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="1320">
             <caret line="44" column="4" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="22" />
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/受控组件和非受控组件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="660">
+            <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/React文档/高阶组件.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -333,36 +448,80 @@
             <folding>
               <element signature="e#13#24#0" />
             </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/Hook.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1380">
+            <caret line="46" column="3" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/React文档/静态类型检查.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="360">
             <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/DOM.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1800">
+            <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/React文档/错误边界.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="210">
             <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/jsx.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="480">
+            <caret line="43" column="17" lean-forward="true" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+            <folding>
+              <element signature="e#945#957#0" />
+              <element signature="e#1233#1248#0" />
+              <element signature="e#1942#1957#0" />
+              <element signature="e#2443#2457#0" />
+            </folding>
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/WxMini 文档/基础能力.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="300">
             <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/React 事件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="510">
+            <caret line="109" column="54" selection-start-line="109" selection-start-column="54" selection-end-line="109" selection-end-column="54" />
+            <folding>
+              <element signature="e#17#32#0" />
+              <element signature="e#219#228#0" />
+              <element signature="e#582#590#0" />
+              <element signature="e#1236#1246#0" />
+              <element signature="e#1925#1940#0" />
+            </folding>
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
           </first_editor>
           <second_editor />
         </state>
@@ -371,9 +530,16 @@
     <entry file="file://$PROJECT_DIR$/React文档/React 渲染.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
+<<<<<<< HEAD
           <first_editor relative-caret-position="540">
             <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
             <folding>
+=======
+          <first_editor relative-caret-position="240">
+            <caret line="55" column="36" lean-forward="true" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+            <folding>
+              <element signature="e#17#30#0" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
               <element signature="e#327#336#0" />
               <element signature="e#535#544#0" />
             </folding>
@@ -382,6 +548,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/React文档/组件通信.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -394,11 +561,19 @@
               <element signature="e#2002#2023#0" />
               <element signature="e#3593#3616#0" />
             </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/代码分割.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="780">
+            <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/React文档/Portals.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -407,11 +582,19 @@
             <folding>
               <element signature="e#344#361#0" />
             </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/错误边界.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="240">
+            <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/React文档/React 概念.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -426,11 +609,19 @@
               <element signature="e#1060#1081#0" />
               <element signature="e#1220#1228#0" />
             </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/Fragments.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1590">
+            <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/React文档/1.核心概念.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -446,12 +637,23 @@
               <element signature="e#142#151#0" />
               <element signature="e#165#174#0" />
               <element signature="e#188#195#0" />
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/性能优化.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="180">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <folding>
+              <element signature="e#13#24#0" />
+              <element signature="e#284#321#0" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
             </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/React文档/Mixins.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -480,11 +682,19 @@
               <element signature="e#255#264#0" />
               <element signature="e#807#828#0" />
             </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/Portals.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-1230">
+            <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/React文档/context.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -493,12 +703,27 @@
             <folding>
               <element signature="e#148#165#0" />
               <element signature="e#961#978#0" />
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/组件通信.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="510">
+            <caret line="200" lean-forward="true" selection-start-line="200" selection-end-line="200" />
+            <folding>
+              <element signature="e#36#48#0" />
+              <element signature="e#157#178#0" />
+              <element signature="e#788#809#0" />
+              <element signature="e#2002#2023#0" />
+              <element signature="e#3593#3616#0" />
+              <element signature="e#3629#3655#0" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
             </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/React文档/Cross-Cutting Concerns.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -506,12 +731,24 @@
             <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
             <folding>
               <element signature="e#235#253#0" />
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/React 组件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="600">
+            <caret line="70" selection-start-line="70" selection-end-line="70" />
+            <folding>
+              <element signature="e#146#156#0" />
+              <element signature="e#374#384#0" />
+              <element signature="e#1191#1200#0" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
             </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/React文档/diff.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -557,21 +794,37 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="1860">
             <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/Mixins.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="510">
+            <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/深入浅出React和Redux/第2章-设计高质量的React组件.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="2940">
             <caret line="98" column="23" selection-start-line="98" selection-start-column="3" selection-end-line="98" selection-end-column="23" />
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/profiler.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="900">
+            <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/React文档/Hook.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -588,12 +841,23 @@
               <element signature="e#1012#1688#0" />
               <element signature="e#1705#1715#0" />
               <element signature="e#1788#1797#0" />
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/PropTypes和defaultProps.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="210">
+            <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+            <folding>
+              <element signature="e#31#45#0" />
+              <element signature="e#2455#2472#0" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
             </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/JavaScript 忍者秘籍/第2章 - 运行时页面的构建过程.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -619,41 +883,78 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="6750">
             <caret line="225" column="89" selection-start-line="225" selection-start-column="89" selection-end-line="225" selection-end-column="89" />
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/diff.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1170">
+            <caret line="32" selection-start-line="32" selection-end-line="32" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/WxMini 文档/获取节点信息.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="720">
             <caret line="24" column="55" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="55" />
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/API.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="210">
+            <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+            <folding>
+              <element signature="e#23#32#0" />
+              <element signature="e#255#264#0" />
+              <element signature="e#807#828#0" />
+            </folding>
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/WxMini 文档/observers.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="210">
             <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/静态类型检查.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="360">
+            <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/React文档/jsx.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="1290">
             <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/严格模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1050">
+            <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/React文档/性能优化.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -661,12 +962,24 @@
             <caret line="73" column="18" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
             <folding>
               <element signature="e#13#24#0" />
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/refs.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="390">
+            <caret line="56" column="2" selection-start-line="56" selection-start-column="2" selection-end-line="56" selection-end-column="2" />
+            <folding>
+              <element signature="e#74#89#0" />
+              <element signature="e#271#288#0" />
+              <element signature="e#482#502#0" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
             </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/深入浅出React和Redux/第1章-React新的前端思维.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -682,21 +995,49 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="4140">
             <caret line="136" column="3" lean-forward="true" selection-start-line="136" selection-start-column="3" selection-end-line="136" selection-end-column="3" />
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/Cross-Cutting Concerns.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="360">
+            <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+            <folding>
+              <element signature="e#235#253#0" />
+            </folding>
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Egg文档/路由.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="60">
             <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/React 概念.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="420">
+            <caret line="54" column="136" lean-forward="true" selection-start-line="54" selection-start-column="136" selection-end-line="54" selection-end-column="136" />
+            <folding>
+              <element signature="e#17#31#0" />
+              <element signature="e#787#797#0" />
+              <element signature="e#822#831#0" />
+              <element signature="e#865#872#0" />
+              <element signature="e#987#994#0" />
+              <element signature="e#1060#1081#0" />
+              <element signature="e#1220#1228#0" />
+            </folding>
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Egg文档/控制器(Controller).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -746,12 +1087,23 @@
               <element signature="e#13382#13397#0" />
               <element signature="e#13575#13598#0" />
               <element signature="e#13810#13823#0" />
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/test.js" />
+    <entry file="file://$PROJECT_DIR$/React文档/高阶组件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="5431">
+            <caret line="280" lean-forward="true" selection-start-line="280" selection-end-line="280" />
+            <folding>
+              <element signature="e#13#24#0" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
             </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Egg文档/服务(service).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -813,12 +1165,31 @@
               <element signature="e#1908#2105#0" />
               <element signature="e#2107#2129#0" />
               <element signature="e#2130#2234#0" />
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/2.高级指导.md" />
+    <entry file="file://$PROJECT_DIR$/React文档/1.核心概念.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="210">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <folding>
+              <element signature="e#7#15#0" />
+              <element signature="e#24#33#0" />
+              <element signature="e#47#60#0" />
+              <element signature="e#74#84#0" />
+              <element signature="e#98#105#0" />
+              <element signature="e#119#128#0" />
+              <element signature="e#142#151#0" />
+              <element signature="e#165#174#0" />
+              <element signature="e#188#195#0" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
             </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Egg文档/框架拓展.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -850,12 +1221,23 @@
               <element signature="e#612#627#0" />
               <element signature="e#765#778#0" />
               <element signature="e#862#878#0" />
+=======
+    <entry file="file://$PROJECT_DIR$/React文档/context.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="690">
+            <caret line="82" column="29" lean-forward="true" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
+            <folding>
+              <element signature="e#148#165#0" />
+              <element signature="e#961#978#0" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
             </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Egg文档/单元测试.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -911,11 +1293,19 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="810">
             <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+=======
+    <entry file="file://$PROJECT_DIR$/JavaScript 忍者秘籍/第13章 - 历久弥新的事件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="811">
+            <caret line="187" column="15" lean-forward="true" selection-start-line="187" selection-start-column="15" selection-end-line="187" selection-end-column="15" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Egg文档/egg 框架基础了解.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -931,6 +1321,13 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="511">
             <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+=======
+    <entry file="file://$PROJECT_DIR$/JavaScript 忍者秘籍/第2章 - 运行时页面的构建过程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="360">
+            <caret line="12" selection-start-line="12" selection-end-line="12" />
+>>>>>>> ff8a7f02f28d96ec96d077e6c2c81d5bcd21f2d3
           </first_editor>
           <second_editor />
         </state>
