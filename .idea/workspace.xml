@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ed26d9f-7132-44c8-8e18-06d864fdf815" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Egg文档/Cookie 与 Session.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Egg文档/HttpClient.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Egg文档/aMenu.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Egg文档/egg 框架内置对象.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Egg文档/egg 框架基础了解.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Egg文档/egg 框架运行环境.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Egg文档/中间件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Egg文档/单元测试.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Egg文档/启动自定义.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Egg文档/多进程模型和进程间通讯.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Egg文档/定时任务.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Egg文档/应用部署.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Egg文档/控制器(Controller).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Egg文档/插件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Egg文档/日志.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Egg文档/服务(service).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Egg文档/本地开发.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Egg文档/框架拓展.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Egg文档/路由.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript 忍者秘籍/第13章 - 历久弥新的事件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript 忍者秘籍/第2章 - 运行时页面的构建过程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/1.核心概念.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/2.高级指引.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/API.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/Cross-Cutting Concerns.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/DOM.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/Fragments.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/Hook.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/Mixins.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/Portals.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/PropTypes和defaultProps.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/React 事件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/React 概念.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/React 渲染.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/React 组件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/context.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/diff.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/jsx.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/profiler.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/refs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/严格模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/代码分割.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/受控组件和非受控组件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/性能优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/组件通信.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/错误边界.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/静态类型检查.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React文档/高阶组件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WxMini 文档/observers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WxMini 文档/page生命周期.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WxMini 文档/冷启动更新.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WxMini 文档/原生组件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WxMini 文档/基础能力.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WxMini 文档/微信小程序文档.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WxMini 文档/登录流程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WxMini 文档/组件通信.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WxMini 文档/自定义组件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WxMini 文档/获取节点信息.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/深入浅出React和Redux/第2章-设计高质量的React组件.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Egg文档/aMenu.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="810">
+                <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Egg文档/多进程模型和进程间通讯.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="331">
+                <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Egg文档/egg 框架基础了解.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="2400">
+                <caret line="80" column="18" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Egg文档/Cookie 与 Session.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="3241">
+                <caret line="183" column="2" selection-start-line="183" selection-start-column="2" selection-end-line="183" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>defaultProps</find>
+      <find>Class.contextType</find>
+      <find>列表</find>
+      <find>addE</find>
+      <find>help</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/React文档/context.md" />
+        <option value="$PROJECT_DIR$/React文档/错误边界.md" />
+        <option value="$PROJECT_DIR$/React文档/Fragments.md" />
+        <option value="$PROJECT_DIR$/React文档/性能优化.md" />
+        <option value="$PROJECT_DIR$/React文档/组件通信.md" />
+        <option value="$PROJECT_DIR$/React文档/profiler.md" />
+        <option value="$PROJECT_DIR$/React文档/React 组件.md" />
+        <option value="$PROJECT_DIR$/React文档/Mixins.md" />
+        <option value="$PROJECT_DIR$/React文档/diff.md" />
+        <option value="$PROJECT_DIR$/React文档/PropTypes和defaultProps.md" />
+        <option value="$PROJECT_DIR$/React文档/静态类型检查.md" />
+        <option value="$PROJECT_DIR$/React文档/Cross-Cutting Concerns.md" />
+        <option value="$PROJECT_DIR$/React文档/refs.md" />
+        <option value="$PROJECT_DIR$/React文档/2. 高级指导.md" />
+        <option value="$PROJECT_DIR$/React文档/React 概念.md" />
+        <option value="$PROJECT_DIR$/React文档/1.核心概念.md" />
+        <option value="$PROJECT_DIR$/React文档/2.高级指导.md" />
+        <option value="$PROJECT_DIR$/JavaScript 忍者秘籍/第2章 - 运行时页面的构建过程.md" />
+        <option value="$PROJECT_DIR$/JavaScript 忍者秘籍/第13章 - 历久弥新的事件.md" />
+        <option value="$PROJECT_DIR$/微信小程序文档.md" />
+        <option value="$PROJECT_DIR$/WxMini 文档/获取节点信息.md" />
+        <option value="$PROJECT_DIR$/WxMini 文档/冷启动更新.md" />
+        <option value="$PROJECT_DIR$/WxMini 文档/组件通信.md" />
+        <option value="$PROJECT_DIR$/WxMini 文档/自定义组件.md" />
+        <option value="$PROJECT_DIR$/WxMini 文档/基础能力.md" />
+        <option value="$PROJECT_DIR$/WxMini 文档/登录流程.md" />
+        <option value="$PROJECT_DIR$/WxMini 文档/微信小程序文档.md" />
+        <option value="$PROJECT_DIR$/WxMini 文档/原生组件.md" />
+        <option value="$PROJECT_DIR$/WxMini 文档/page生命周期.md" />
+        <option value="$PROJECT_DIR$/WxMini 文档/observers.md" />
+        <option value="$PROJECT_DIR$/深入浅出React和Redux/第2章-设计高质量的React组件.md" />
+        <option value="$PROJECT_DIR$/React文档/Hook.md" />
+        <option value="$PROJECT_DIR$/Egg文档/egg 框架内置对象.md" />
+        <option value="$PROJECT_DIR$/Egg文档/egg 框架运行环境.md" />
+        <option value="$PROJECT_DIR$/Egg文档/egg 框架基础了解.md" />
+        <option value="$PROJECT_DIR$/Egg文档/中间件.md" />
+        <option value="$PROJECT_DIR$/Egg文档/路由.md" />
+        <option value="$PROJECT_DIR$/Egg文档/控制器(Controller).md" />
+        <option value="$PROJECT_DIR$/Egg文档/服务(service).md" />
+        <option value="$PROJECT_DIR$/Egg文档/插件.md" />
+        <option value="$PROJECT_DIR$/Egg文档/定时任务.md" />
+        <option value="$PROJECT_DIR$/Egg文档/框架拓展.md" />
+        <option value="$PROJECT_DIR$/Egg文档/启动自定义.md" />
+        <option value="$PROJECT_DIR$/Egg文档/本地开发.md" />
+        <option value="$PROJECT_DIR$/Egg文档/单元测试.md" />
+        <option value="$PROJECT_DIR$/Egg文档/应用部署.md" />
+        <option value="$PROJECT_DIR$/Egg文档/日志.md" />
+        <option value="$PROJECT_DIR$/Egg文档/HttpClient.md" />
+        <option value="$PROJECT_DIR$/Egg文档/Cookie 与 Session.md" />
+        <option value="$PROJECT_DIR$/Egg文档/aMenu.md" />
+        <option value="$PROJECT_DIR$/Egg文档/多进程模型和进程间通讯.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="280" />
+    <option name="y" value="25" />
+    <option name="width" value="1555" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="books-note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="books-note" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="books-note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="books-note" type="462c0819:PsiDirectoryNode" />
+              <item name="Egg文档" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test/testFile" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\test\githubCodeOriginal\books-note\WxMini 文档" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ed26d9f-7132-44c8-8e18-06d864fdf815" name="Default Changelist" comment="" />
+      <created>1588204934752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588204934752</updated>
+      <workItem from="1588204936331" duration="17729000" />
+      <workItem from="1588293139809" duration="9213000" />
+      <workItem from="1588374608471" duration="23235000" />
+      <workItem from="1588581906464" duration="10107000" />
+      <workItem from="1588670661834" duration="12437000" />
+      <workItem from="1589013682489" duration="4901000" />
+      <workItem from="1589075626452" duration="5649000" />
+      <workItem from="1589160056480" duration="4746000" />
+      <workItem from="1589298609097" duration="599000" />
+      <workItem from="1589356130056" duration="1050000" />
+      <workItem from="1589417394073" duration="23000" />
+      <workItem from="1589417475090" duration="4615000" />
+      <workItem from="1589615991016" duration="599000" />
+      <workItem from="1589721246068" duration="7462000" />
+      <workItem from="1589765851717" duration="18549000" />
+      <workItem from="1590054146195" duration="771000" />
+      <workItem from="1590067589052" duration="3774000" />
+      <workItem from="1590138851559" duration="1854000" />
+      <workItem from="1590459906623" duration="3039000" />
+      <workItem from="1590591201698" duration="2311000" />
+      <workItem from="1590660749586" duration="2345000" />
+      <workItem from="1590733055840" duration="1718000" />
+      <workItem from="1590953744953" duration="1291000" />
+      <workItem from="1591004083243" duration="1446000" />
+      <workItem from="1591115891533" duration="94000" />
+      <workItem from="1591149042265" duration="1359000" />
+      <workItem from="1591230937270" duration="4425000" />
+      <workItem from="1591310571422" duration="659000" />
+      <workItem from="1591754612075" duration="4084000" />
+      <workItem from="1591809360855" duration="599000" />
+      <workItem from="1591850542224" duration="1226000" />
+      <workItem from="1591921594645" duration="2217000" />
+      <workItem from="1591925494515" duration="599000" />
+      <workItem from="1591963633756" duration="599000" />
+      <workItem from="1591966358191" duration="728000" />
+      <workItem from="1591981941340" duration="1348000" />
+      <workItem from="1592013331687" duration="636000" />
+      <workItem from="1592147928721" duration="2231000" />
+      <workItem from="1592218842970" duration="957000" />
+      <workItem from="1592238499405" duration="1351000" />
+      <workItem from="1593083420057" duration="50286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="212861000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1459431" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1459431" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WxMini 文档/原生组件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="450">
+            <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React文档/React 组件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1890">
+            <caret line="70" selection-start-line="70" selection-end-line="70" />
+            <folding>
+              <element signature="e#146#156#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React文档/refs.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1320">
+            <caret line="44" column="4" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React文档/高阶组件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="7530">
+            <caret line="280" selection-start-line="280" selection-end-line="280" />
+            <folding>
+              <element signature="e#13#24#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React文档/静态类型检查.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="360">
+            <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React文档/错误边界.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="210">
+            <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WxMini 文档/基础能力.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="300">
+            <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React文档/React 渲染.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="540">
+            <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+            <folding>
+              <element signature="e#327#336#0" />
+              <element signature="e#535#544#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React文档/组件通信.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="540">
+            <caret line="200" selection-start-line="200" selection-end-line="200" />
+            <folding>
+              <element signature="e#36#48#0" />
+              <element signature="e#157#178#0" />
+              <element signature="e#788#809#0" />
+              <element signature="e#2002#2023#0" />
+              <element signature="e#3593#3616#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React文档/Portals.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-868">
+            <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            <folding>
+              <element signature="e#344#361#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React文档/React 概念.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="240">
+            <caret line="43" selection-start-line="43" selection-end-line="43" />
+            <folding>
+              <element signature="e#17#31#0" />
+              <element signature="e#787#797#0" />
+              <element signature="e#822#831#0" />
+              <element signature="e#865#872#0" />
+              <element signature="e#987#994#0" />
+              <element signature="e#1060#1081#0" />
+              <element signature="e#1220#1228#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React文档/1.核心概念.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="210">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <folding>
+              <element signature="e#7#15#0" />
+              <element signature="e#24#33#0" />
+              <element signature="e#47#60#0" />
+              <element signature="e#74#84#0" />
+              <element signature="e#98#105#0" />
+              <element signature="e#119#128#0" />
+              <element signature="e#142#151#0" />
+              <element signature="e#165#174#0" />
+              <element signature="e#188#195#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React文档/Mixins.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="510">
+            <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React文档/2.高级指引.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React文档/API.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="210">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <folding>
+              <element signature="e#23#32#0" />
+              <element signature="e#255#264#0" />
+              <element signature="e#807#828#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React文档/context.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1290">
+            <caret line="82" column="29" lean-forward="true" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
+            <folding>
+              <element signature="e#148#165#0" />
+              <element signature="e#961#978#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React文档/Cross-Cutting Concerns.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="330">
+            <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+            <folding>
+              <element signature="e#235#253#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React文档/diff.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="630">
+            <caret line="21" selection-start-line="21" selection-end-line="25" selection-end-column="120" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WxMini 文档/page生命周期.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="150">
+            <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WxMini 文档/微信小程序文档.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="3120">
+            <caret line="104" selection-start-line="104" selection-end-line="104" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WxMini 文档/登录流程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="360">
+            <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript 忍者秘籍/第13章 - 历久弥新的事件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1860">
+            <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/深入浅出React和Redux/第2章-设计高质量的React组件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="2940">
+            <caret line="98" column="23" selection-start-line="98" selection-start-column="3" selection-end-line="98" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React文档/Hook.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="240">
+            <caret line="76" column="14" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="14" />
+            <folding>
+              <element signature="e#13#25#0" />
+              <element signature="e#257#270#0" />
+              <element signature="e#432#443#0" />
+              <element signature="e#444#749#0" />
+              <element signature="e#751#761#0" />
+              <element signature="e#872#883#0" />
+              <element signature="e#884#1011#0" />
+              <element signature="e#1012#1688#0" />
+              <element signature="e#1705#1715#0" />
+              <element signature="e#1788#1797#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript 忍者秘籍/第2章 - 运行时页面的构建过程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="210">
+            <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WxMini 文档/组件通信.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="240">
+            <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WxMini 文档/自定义组件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="6750">
+            <caret line="225" column="89" selection-start-line="225" selection-start-column="89" selection-end-line="225" selection-end-column="89" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WxMini 文档/获取节点信息.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="720">
+            <caret line="24" column="55" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="55" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WxMini 文档/observers.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="210">
+            <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React文档/jsx.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1290">
+            <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React文档/性能优化.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="812">
+            <caret line="73" column="18" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
+            <folding>
+              <element signature="e#13#24#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/深入浅出React和Redux/第1章-React新的前端思维.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="660">
+            <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egg文档/egg 框架运行环境.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="4140">
+            <caret line="136" column="3" lean-forward="true" selection-start-line="136" selection-start-column="3" selection-end-line="136" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egg文档/路由.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="60">
+            <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egg文档/控制器(Controller).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1771">
+            <caret line="656" column="2" lean-forward="true" selection-start-line="656" selection-start-column="2" selection-end-line="656" selection-end-column="2" />
+            <folding>
+              <element signature="e#326#428#0" />
+              <element signature="e#457#466#0" />
+              <element signature="e#467#521#0" />
+              <element signature="e#523#534#0" />
+              <element signature="e#535#558#0" />
+              <element signature="e#559#1302#0" />
+              <element signature="e#1304#1327#0" />
+              <element signature="e#1328#1391#0" />
+              <element signature="e#1392#1998#0" />
+              <element signature="e#2001#2028#0" />
+              <element signature="e#2461#2470#0" />
+              <element signature="e#2620#2631#0" />
+              <element signature="e#2632#2872#0" />
+              <element signature="e#2725#2750#0" />
+              <element signature="e#2751#2760#0" />
+              <element signature="e#2778#3089#0" />
+              <element signature="e#3101#3110#0" />
+              <element signature="e#3177#3271#0" />
+              <element signature="e#3273#3283#0" />
+              <element signature="e#3284#3467#0" />
+              <element signature="e#4612#4625#0" />
+              <element signature="e#5439#5453#0" />
+              <element signature="e#3748#3762#0" />
+              <element signature="e#3763#3779#0" />
+              <element signature="e#3780#3856#0" />
+              <element signature="e#3858#3869#0" />
+              <element signature="e#3876#4101#0" />
+              <element signature="e#4109#4710#0" />
+              <element signature="e#4791#4802#0" />
+              <element signature="e#4803#4832#0" />
+              <element signature="e#4809#5080#0" />
+              <element signature="e#5088#5935#0" />
+              <element signature="e#6028#6037#0" />
+              <element signature="e#6056#6137#0" />
+              <element signature="e#6156#6381#0" />
+              <element signature="e#6388#7102#0" />
+              <element signature="e#7205#7216#0" />
+              <element signature="e#7217#7231#0" />
+              <element signature="e#7223#8589#0" />
+              <element signature="e#11894#11903#0" />
+              <element signature="e#13382#13397#0" />
+              <element signature="e#13575#13598#0" />
+              <element signature="e#13810#13823#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egg文档/服务(service).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="661">
+            <caret line="84" column="39" selection-start-line="84" selection-start-column="39" selection-end-line="84" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egg文档/中间件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3030">
+            <caret line="213" column="2" selection-start-line="213" selection-start-column="2" selection-end-line="213" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egg文档/插件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="361">
+            <caret line="118" column="20" lean-forward="true" selection-start-line="118" selection-start-column="20" selection-end-line="118" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egg文档/定时任务.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="451">
+            <caret line="157" column="13" selection-start-line="157" selection-start-column="13" selection-end-line="157" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egg文档/egg 框架内置对象.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="280">
+            <caret line="195" column="54" selection-start-line="195" selection-start-column="50" selection-end-line="195" selection-end-column="54" />
+            <folding>
+              <element signature="e#19#35#0" />
+              <element signature="e#189#386#0" />
+              <element signature="e#388#746#0" />
+              <element signature="e#748#759#0" />
+              <element signature="e#760#781#0" />
+              <element signature="e#782#855#0" />
+              <element signature="e#910#1042#0" />
+              <element signature="e#1083#1216#0" />
+              <element signature="e#1400#1458#0" />
+              <element signature="e#1617#1645#0" />
+              <element signature="e#1646#1878#0" />
+              <element signature="e#1880#1907#0" />
+              <element signature="e#1908#2105#0" />
+              <element signature="e#2107#2129#0" />
+              <element signature="e#2130#2234#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egg文档/框架拓展.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="661">
+            <caret line="91" column="46" selection-start-line="91" selection-start-column="46" selection-end-line="91" selection-end-column="46" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egg文档/启动自定义.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="630">
+            <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egg文档/本地开发.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="481">
+            <caret line="210" column="1" selection-start-line="210" selection-start-column="1" selection-end-line="210" selection-end-column="1" />
+            <folding>
+              <element signature="e#58#69#0" />
+              <element signature="e#429#441#0" />
+              <element signature="e#612#627#0" />
+              <element signature="e#765#778#0" />
+              <element signature="e#862#878#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egg文档/单元测试.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="691">
+            <caret line="404" column="26" selection-start-line="404" selection-start-column="26" selection-end-line="404" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egg文档/HttpClient.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egg文档/日志.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egg文档/应用部署.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="811">
+            <caret line="75" column="4" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egg文档/Cookie 与 Session.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3241">
+            <caret line="183" column="2" selection-start-line="183" selection-start-column="2" selection-end-line="183" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egg文档/aMenu.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="810">
+            <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egg文档/egg 框架基础了解.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="2400">
+            <caret line="80" column="18" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Egg文档/多进程模型和进程间通讯.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="331">
+            <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
